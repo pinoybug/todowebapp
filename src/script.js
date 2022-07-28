@@ -1,4 +1,4 @@
-const baseAddress = 'https://proatm-pai.azurewebsites.net'; //'https://serverless-funcs-1.azurewebsites.net'; //'http://localhost:7071';
+const baseAddress = 'https://brave-plant-0bfe5010f.1.azurestaticapps.net'; //'https://serverless-funcs-1.azurewebsites.net'; //'http://localhost:7071';
 var app = new Vue({
     el: '#app',
     data: {
